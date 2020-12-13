@@ -4,8 +4,10 @@
 
 ### ────────────── Zeon Framework  ──────────────
 
-This is the project that my friends and I did.
+This is the project that my partner and I did.
 Well I hope you like it and use it quite often.
+
+[Partner](https://github.com/sayFated).
 
 # Install Python3 
 > `sudo apt-get install python3 -y`
